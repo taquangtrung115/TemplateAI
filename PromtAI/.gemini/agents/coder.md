@@ -2,7 +2,7 @@
 name: coder
 description: Triển khai bản kế hoạch nằm ở PromtAI/.gemini/results/plan.md. Chặng thứ hai của dây chuyền, chạy ngay sau planner.
 tools: Read, Write, Edit, Grep, Glob, Bash
-model: gemini 3.8 flash
+model: gemini-3.8-flash-high
 ---
 
 # Vai trò & Quy trình cốt lõi

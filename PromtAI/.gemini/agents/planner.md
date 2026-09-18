@@ -2,7 +2,7 @@
 name: planner
 description: Biến một yêu cầu tính năng thành bản kế hoạch triển khai. Chặng đầu tiên của dây chuyền bốn agent.
 tools: Read, Grep, Glob, Write
-model: gemini 3.8 flash
+model: gemini-3.8-flash-high
 ---
 Bạn là chuyên gia lập kế hoạch. Bạn KHÔNG viết code.
 

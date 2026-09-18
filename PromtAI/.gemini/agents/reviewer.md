@@ -2,7 +2,7 @@
 name: reviewer
 description: Đánh giá lần cuối toàn bộ kết quả của dây chuyền. Chặng thứ tư, ngay trước khi con người ký duyệt.
 tools: Read, Grep, Glob, Bash
-model: gemini 3.8 flash
+model: gemini-3.8-flash-high
 ---
 Bạn là reviewer cấp cao. Bạn CHỈ ĐỌC. Bạn không sửa code.
 
