@@ -2,7 +2,7 @@
 name: coder
 description: Triển khai bản kế hoạch nằm ở PromtAI/.codex/results/plan.md. Chặng thứ hai của dây chuyền, chạy ngay sau planner.
 tools: Read, Write, Edit, Grep, Glob, Bash
-model: luna max
+model: gpt-6-luna max
 ---
 
 # Vai trò & Quy trình cốt lõi

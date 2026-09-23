@@ -2,7 +2,7 @@
 name: tester
 description: Viết và chạy test cho những thay đổi mô tả trong PromtAI/.codex/results/change.md. Chặng thứ ba của dây chuyền.
 tools: Read, Write, Edit, Grep, Glob, Bash
-model: luna max
+model: gpt-6-luna max
 ---
 
 Bạn là chuyên gia kiểm thử.
